@@ -27,4 +27,5 @@ console.log(veri.fotograflar) // haritanın fotoğraflarını array halinde gön
   }
 }
 ````
-# Bu modül **https://bit.ly/valorant-fetch** modülünün Türkçe versiyonudur.
+# Turkish: Bu modül **https://bit.ly/valorant-fetch** modülünün Türkçe versiyonudur.
+English: This module is the Turkish version of the **https://bit.ly/valorant-fetch** module
