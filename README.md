@@ -28,4 +28,13 @@ console.log(veri.fotograflar) // haritanın fotoğraflarını array halinde gön
 }
 ````
 # Turkish: Bu modül **https://bit.ly/valorant-fetch** modülünün Türkçe versiyonudur.
-# English: This module is the Turkish version of the **https://bit.ly/valorant-fetch** module
+# English: This module is the Turkish version of the **https://bit.ly/valorant-fetch** module.
+
+## Log
+
+##### 1.0.0 Modül paylaşıldı.
+##### 1.0.1 README kısmı eklendi ve modül güncellendi.
+##### 1.0.2 JSON'daki bazı buglar düzeltildi.
+##### 1.0.3 README'deki eksik kısımlar düzeltildi.
+##### 1.0.4 JSON'da bazı gereksiz kısımlar kaldırıldı.
+##### 1.0.5 README'ye modülün İngilizce hali eklendi.
